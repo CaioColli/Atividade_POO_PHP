@@ -1,1 +1,3 @@
-# Atividade_POO_PHP
+# Atividade prática de Poo
+
+### Desenvolvido em PHP
